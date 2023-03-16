@@ -10,6 +10,7 @@ NHL Concussion Data 2012/2013 Season to March 2022/2023 Season
 - fields:
   - name: Season
    - description: NHL Season
+   
   - name: Team
    - description: NHL Team
   - name: Position
