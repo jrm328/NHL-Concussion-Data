@@ -10,7 +10,6 @@ NHL Concussion Data 2012/2013 Season to March 2022/2023 Season
 - fields:
   - name: Season
    - description: NHL Season
-   
   - name: Team
    - description: NHL Team
   - name: Position
@@ -26,6 +25,8 @@ NHL Concussion Data 2012/2013 Season to March 2022/2023 Season
   - name: Games Missed
    - description: Number of NHL games missed
 - references:
-  - name: Injury absence data comes from the player profile pages on tsn.ca and sportsforecaster.com
+  - name: Injury absence data comes from the player profile pages on tsn.ca and sportsforecaster.com[^1]
    - link: [TSN](tsn.ca)
    - link: [Sports forecaster](sportsforecaster.com)
+
+[^1]: Refrences used to populate dataset
